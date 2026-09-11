@@ -1,0 +1,6 @@
+{
+  "name": "Pabellón Municipal",
+  "description": "Gestión de pistas deportivas (pádel, fútbol 7, tenis, fútbol 11) y clases dirigidas (spinning, zumba, crossfit, pilates) con reservas en tiempo real y notificaciones push.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
